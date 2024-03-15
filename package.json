@@ -1,0 +1,14 @@
+{
+  "name": "nodejsexercise",
+  "version": "1.0.0",
+  "description": "Exercise to create file listing functions.",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AV",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
